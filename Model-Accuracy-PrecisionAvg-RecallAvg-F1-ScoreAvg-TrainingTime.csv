@@ -1,0 +1,2 @@
+Model,Accuracy,PrecisionAvg,RecallAvg,F1-ScoreAvg,TrainingTime
+LSTM,0.5,0.25,0.5,0.3333333333333333,114.05 minutes

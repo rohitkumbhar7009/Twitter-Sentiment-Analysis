@@ -1,0 +1,38 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# TensorFlow, HuggingFace, PyTorch large model files
+*.h5
+*.hdf5
+*.pt
+*.bin
+*.pkl
+*.pytorch
+*.pytorch_model
+*.tensorflow
+*.keras
+
+# Large datasets
+data/
+datasets/
+
+# Model folders
+models/
+checkpoints/
+
+
+
+.venv/
+data/
+models/
+*.h5
+*.pyd
+*.dll
