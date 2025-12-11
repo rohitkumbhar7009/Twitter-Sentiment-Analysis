@@ -1,0 +1,59 @@
+{
+    "logistic_regression": {
+        "0": {
+            "precision": 0.7899487179487179,
+            "recall": 0.7695843325339728,
+            "f1-score": 0.7796335661504201,
+            "support": 5004.0
+        },
+        "1": {
+            "precision": 0.7750243902439025,
+            "recall": 0.7950360288230585,
+            "f1-score": 0.7849026776010276,
+            "support": 4996.0
+        },
+        "accuracy": 0.7823,
+        "macro avg": {
+            "precision": 0.7824865540963102,
+            "recall": 0.7823101806785157,
+            "f1-score": 0.7822681218757239,
+            "support": 10000.0
+        },
+        "weighted avg": {
+            "precision": 0.7824925238273921,
+            "recall": 0.7823,
+            "f1-score": 0.7822660142311436,
+            "support": 10000.0
+        }
+    },
+    "lstm": {
+        "accuracy": "LSTM model not found."
+    },
+    "bert_transformer": {
+        "0": {
+            "precision": 0.8605061801059447,
+            "recall": 0.8764988009592326,
+            "f1-score": 0.8684288684288685,
+            "support": 5004.0
+        },
+        "1": {
+            "precision": 0.873954721599021,
+            "recall": 0.8576861489191353,
+            "f1-score": 0.865744014546924,
+            "support": 4996.0
+        },
+        "accuracy": 0.8671,
+        "macro avg": {
+            "precision": 0.8672304508524828,
+            "recall": 0.867092474939184,
+            "f1-score": 0.8670864414878963,
+            "support": 10000.0
+        },
+        "weighted avg": {
+            "precision": 0.8672250714358856,
+            "recall": 0.8671,
+            "f1-score": 0.8670875154294491,
+            "support": 10000.0
+        }
+    }
+}

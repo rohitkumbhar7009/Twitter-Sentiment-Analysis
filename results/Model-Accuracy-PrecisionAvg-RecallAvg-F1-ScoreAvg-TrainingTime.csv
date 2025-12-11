@@ -1,0 +1,4 @@
+"Model","Accuracy","Precision (Avg)","Recall (Avg)","F1-Score (Avg)","Training Time"
+"Logistic Regression","79.0%","0.79","0.79","0.79","Fast (~minutes)"
+"LSTM","(Your result)","(Your result)","(Your result)","(Your result)","Slow (~hours on CPU)"
+"BERT (Fine-Tuned)","81.9%","0.82","0.82","0.82","Very Slow (~1.25 hours for a small sample on CPU)"
